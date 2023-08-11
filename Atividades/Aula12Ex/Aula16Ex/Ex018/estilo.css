@@ -1,0 +1,37 @@
+body{
+    background: rgb(72, 72, 201);
+    font: normal 15pt arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.459);
+}
+
+div{
+    padding: 8px;
+}
+img{
+    border-radius: 50%;
+    width: 250px ;
+    height: 250px;
+}
+
+select#flista{
+    width: 150px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
